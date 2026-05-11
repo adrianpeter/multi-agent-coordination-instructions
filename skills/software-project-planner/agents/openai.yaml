@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Project Planner"
+  short_description: "Research-led app planning workflow"
+  default_prompt: "Use $software-project-planner to research, gather requirements, and break my software project into capabilities, work packages, and task issues."
