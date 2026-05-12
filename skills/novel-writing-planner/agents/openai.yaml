@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Writing Planner"
+  short_description: "Research-led multi-agent novel planning workflow"
+  default_prompt: "Use $novel-writing-planner to research, develop, outline, draft-plan, and coordinate a novel through story bible artifacts and GitHub issues."
